@@ -4,7 +4,7 @@
   "description": "Tarea-5, Generado de numeros",
   "main": "index.js",
   "scripts": {
-    "c": "node generator.js",
+    "generate-file": "node generator.js",
     "find-even-number": "node find.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
