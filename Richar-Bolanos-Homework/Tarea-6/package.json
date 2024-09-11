@@ -1,0 +1,12 @@
+{
+  "name": "l",
+  "version": "1.0.0",
+  "description": "Retorna la lista de todos los productos en formato JSON.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Richar Bolaños",
+  "license": "ISC"
+}
